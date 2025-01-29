@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catálogo - Todo Burletes</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css" rel="stylesheet">
+    <style>
+        .product-card {
+            background: white;
+            border-radius: 8px;
+            padding: 12px 15px;
+            display: flex;
+            flex-direction: column;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+            transition: all 0.2s ease;
+            cursor: pointer;
+        }
+        
+        .product-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0,0,0,0.5);
+            z-index: 1000;
+            animation: fadeIn 0.3s ease;
+        }
+
+        .modal-content {
+            position: relative;
+            background-color: white;
+            margin: 15% auto;
+            padding: 2rem;
+            border-radius: 8px;
+            max-width: 500px;
+            animation: slideIn 0.3s ease;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        @keyframes slideIn {
+            from { transform: translateY(-20px); opacity: 0; }
+            to { transform: translateY(0); opacity: 1; }
+        }
+
+        .product-image {
+            background: #fff;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border: 1px solid #e2e8f0;
+            border-radius: 4px;
+            margin: 0;
+        }
+
+        .product-image img {
+            max-width: 100%;
+            max-height: 100%;
+            object-fit: contain;
+        }
+
+        .category-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 15px;
+            margin-bottom: 40px;
+        }
+    </style>
+</head>
+<body class="font-sans bg-gray-50">
+    <!-- Navbar -->
+    <nav class="bg-gray-800 text-white">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex items-center justify-between h-16">
+                <div class="flex items-center">
+                    <span class="text-xl font-bold">Todo Burletes</span>
+                </div>
+                <div class="hidden md:block">
+                    <div class="ml-10 flex items-baseline space-x-4">
+                        <a href="index.html" class="px-3 py-2 rounded-md text-sm font-medium hover:bg-gray-700">Inicio</a>
+                        <a href="catalogo.html" class="bg-gray-700 px-3 py-2 rounded-md text-sm font-medium">Catálogo</a>
+                        <a href="index.html#contacto" class="px-3 py-2 rounded-md text-sm font-medium hover:bg-gray-700">Contacto</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Blue header section -->
+    <div class="bg-blue-600 text-white">
+        <div class="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
+            <div class="text-center">
+                <h1 class="text-4xl font-bold mb-4">Catálogo de Productos</h1>
+                <p class="text-xl">Explore nuestra amplia gama de burletes y componentes de caucho</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Catalog content -->
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+        <div id="productGrid"></div>
+    </div>
+
+    <!-- Modal -->
+    <div id="contactModal" class="modal">
+        <div class="modal-content">
+            <h3 class="text-2xl font-bold text-gray-800 mb-4">Consultá por los productos</h3>
+            
+            <form action="https://formspree.io/f/mqaekwye" method="POST" class="space-y-4">
+                <div>
+                    <label class="block text-sm font-medium text-gray-700">Nombre de tu empresa</label>
+                    <input type="text" name="empresa" required class="mt-1 block w-full px-4 py-2 rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 border border-gray-200">
+                </div>
+                <div>
+                    <label class="block text-sm font-medium text-gray-700">Tu mail</label>
+                    <input type="email" name="_replyto" required class="mt-1 block w-full px-4 py-2 rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 border border-gray-200">
+                </div>
+                <div>
+                    <label class="block text-sm font-medium text-gray-700">Tu teléfono</label>
+                    <input type="tel" name="telefono" required class="mt-1 block w-full px-4 py-2 rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 border border-gray-200">
+                </div>
+                <div>
+                    <label class="block text-sm font-medium text-gray-700">Tu consulta</label>
+                    <textarea name="mensaje" rows="4" required class="mt-1 block w-full px-4 py-2 rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 border border-gray-200"></textarea>
+                </div>
+                <input type="hidden" name="_subject" value="Nueva consulta de Burletes Pro">
+                <input type="text" name="_gotcha" style="display:none">
+                <div class="flex justify-end space-x-3 pt-4">
+                    <button type="button" onclick="closeModal()" class="px-4 py-2 text-gray-600 hover:text-gray-800 rounded-md border border-gray-300">Cerrar</button>
+                    <button type="submit" class="px-6 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700">Enviar consulta</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="bg-gray-800 text-white py-8">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="grid md:grid-cols-3 gap-8">
+                <div>
+                    <h3 class="text-lg font-semibold mb-4">Todo Burletes</h3>
+                    <p class="text-gray-400">Distribuidora oficial de Burletes en Zona Norte.</p>
+                </div>
+                <div>
+                    <h3 class="text-lg font-semibold mb-4">Contacto</h3>
+                    <p class="text-gray-400">Email: burleteszonanorte@gmail.com</p>
+                    <p class="text-gray-400">Tel: (011) 4444-5555</p>
+                    <p class="text-gray-400">Dirección: Av. Industrial 1234, Zona Norte</p>
+                </div>
+                <div>
+                    <h3 class="text-lg font-semibold mb-4">Horarios de atención</h3>
+                    <p class="text-gray-400">Lunes a Viernes: 8:00 - 17:00</p>
+                    <p class="text-gray-400">Sábados: 9:00 - 13:00</p>
+                </div>
+            </div>
+            <div class="mt-8 pt-8 border-t border-gray-700 text-center text-gray-400">
+                <p>&copy; 2025 Todo Burletes. Todos los derechos reservados.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        function openModal() {
+            document.getElementById('contactModal').style.display = 'block';
+            document.body.style.overflow = 'hidden';
+        }
+    
+        function closeModal() {
+            document.getElementById('contactModal').style.display = 'none';
+            document.body.style.overflow = 'auto';
+        }
+    
+        // Close modal when clicking outside
+        document.addEventListener('click', function(event) {
+            const modal = document.getElementById('contactModal');
+            if (event.target === modal) {
+                closeModal();
+            }
+        });
+    
+        async function loadCatalog() {
+            try {
+                const urlParams = new URLSearchParams(window.location.search);
+                const catalogFile = urlParams.get('catalog') || 'categories.json';
+    
+                const [productsResponse, categoriesResponse] = await Promise.all([
+                    fetch('assets/products.json'),
+                    fetch('assets/' + catalogFile)
+                ]);
+                
+                const products = await productsResponse.json();
+                const categories = await categoriesResponse.json();
+                
+                const productGrid = document.getElementById('productGrid');
+                
+                for (const [categoryId, category] of Object.entries(categories)) {
+                    const categoryTitle = document.createElement('h2');
+                    categoryTitle.className = 'text-3xl font-bold text-center mb-8 text-gray-800';
+                    categoryTitle.textContent = category.category_name;
+                    productGrid.appendChild(categoryTitle);
+                    
+                    const categoryGrid = document.createElement('div');
+                    categoryGrid.className = 'category-grid';
+                    
+                    category.category_items.forEach(itemCode => {
+                        const product = products[itemCode];
+                        if (product) {
+                            const card = document.createElement('div');
+                            card.className = 'product-card';
+                            card.onclick = openModal;
+                            
+                            card.innerHTML = `
+                                <div class="mb-3">
+                                    <div class="text-xl font-semibold text-gray-800 mb-1">${product.name}</div>
+                                    <div class="text-gray-600 text-sm">Código: ${itemCode}</div>
+                                </div>
+                                <div class="product-image mb-4">
+                                    <img src="assets/pieces/piece_${itemCode}.png" alt="${product.name}">
+                                </div>
+                                <div class="text-gray-600 text-sm text-center mb-4">Escala: 1 celda = 5x5mm</div>
+                                <div class="flex items-center justify-between pt-4 border-t border-gray-200 mt-auto">
+                                    <div class="text-gray-600">Precio por metro:</div>
+                                    <div class="text-2xl font-semibold text-blue-600">${product.price}</div>
+                                </div>
+                            `;
+                            
+                            categoryGrid.appendChild(card);
+                        }
+                    });
+                    
+                    productGrid.appendChild(categoryGrid);
+                }
+            } catch (error) {
+                console.error('Error loading catalog:', error);
+                const productGrid = document.getElementById('productGrid');
+                productGrid.innerHTML = '<p class="text-red-600 text-center">Error cargando el catálogo. Por favor, intente nuevamente.</p>';
+            }
+        }
+    
+        document.addEventListener('DOMContentLoaded', loadCatalog);
+    </script>
+</body>
+</html>

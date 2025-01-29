@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Todo Burletes - Distribuidora oficial de Perfigom en Zona Norte</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css" rel="stylesheet">
+    <style>
+        .catalog-card {
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+        .catalog-card:hover {
+            filter: brightness(0.9);
+        }
+
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0,0,0,0.5);
+            z-index: 1000;
+            animation: fadeIn 0.3s ease;
+        }
+
+        .modal-content {
+            position: relative;
+            background-color: white;
+            margin: 15% auto;
+            padding: 2rem;
+            border-radius: 8px;
+            max-width: 500px;
+            animation: slideIn 0.3s ease;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        @keyframes slideIn {
+            from { transform: translateY(-20px); opacity: 0; }
+            to { transform: translateY(0); opacity: 1; }
+        }
+    </style>
+</head>
+<body class="font-sans">
+    <nav class="bg-gray-800 text-white">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex items-center justify-between h-16">
+                <div class="flex items-center">
+                    <span class="text-xl font-bold">Todo Burletes</span>
+                </div>
+                <div class="hidden md:block">
+                    <div class="ml-10 flex items-baseline space-x-4">
+                        <a href="index.html" class="px-3 py-2 rounded-md text-sm font-medium hover:bg-gray-700">Inicio</a>
+                        <a href="catalogo.html" class="px-3 py-2 rounded-md text-sm font-medium hover:bg-gray-700">Catálogo</a>
+                        <a href="#contacto" class="px-3 py-2 rounded-md text-sm font-medium hover:bg-gray-700">Contacto</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <div id="inicio" class="bg-blue-600 text-white">
+        <div class="max-w-7xl mx-auto py-16 px-4 sm:px-6 lg:px-8">
+            <div class="text-center">
+                <h1 class="text-4xl font-bold mb-4">Distribuidora oficial de Perfigom</h1>
+                <p class="text-xl mb-8">Todo burletes es la distribuidora oficial de <a href="https://www.perfigom.com/">Perfigom</a> en Zona Norte, empresa líder en burletes y componentes de caucho en Argentina.</p>
+                <button onclick="openModal()" class="bg-white text-blue-600 px-6 py-3 rounded-lg font-semibold hover:bg-gray-100">
+                    Solicitar Cotización
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <div id="productos" class="py-16 bg-gray-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <h2 class="text-3xl font-bold text-center mb-12">Catálogos de productos</h2>
+            <div class="grid md:grid-cols-3 gap-8">
+                <a href="construction.html" class="catalog-card bg-white p-6 rounded-lg shadow-md">
+                    <div class="h-64 mb-4 overflow-hidden">
+                        <img src="/assets/img/bbva.jpg" alt="Para la construcción" class="w-full h-full object-cover rounded-lg">
+                    </div>
+                    <h3 class="text-xl font-semibold mb-2">Para la construcción</h3>
+                    <p class="text-gray-600">Productos para sistemas de alta prestación, frames, curtain wall, vidriado hermético, carpintería de aluminio, PVC y madera.</p>
+                </a>
+                <a href="factory.html" class="catalog-card bg-white p-6 rounded-lg shadow-md">
+                    <div class="h-64 mb-4 overflow-hidden">
+                        <img src="/assets/img/industrial.webp" alt="Uso industrial" class="w-full h-full object-cover rounded-lg">
+                    </div>
+                    <h3 class="text-xl font-semibold mb-2">Uso industrial</h3>
+                    <p class="text-gray-600">Burletería para todas las líneas de ALUAR, SAPA, METALES DEL TALAR, ALCEMAR, FLAMIA, y las principales automotrices y carroceras del país.</p>
+                </a>
+                <a href="catalogo.html" class="catalog-card bg-white p-6 rounded-lg shadow-md">
+                    <div class="h-64 mb-4 overflow-hidden">
+                        <img src="/assets/img/burlete.png" alt="Catálogo completo" class="w-full h-full object-cover rounded-lg">
+                    </div>
+                    <h3 class="text-xl font-semibold mb-2">Catálogo completo</h3>
+                    <p class="text-gray-600">Encontrá el burlete que necesitás para cualquier aplicación. También podés solicitar desarrollos especiales según tu proyecto.</p>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div id="ventajas" class="py-16">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <h2 class="text-3xl font-bold text-center mb-12">¿Por qué elegirnos?</h2>
+            <div class="grid md:grid-cols-4 gap-8">
+                <div class="text-center">
+                    <div class="bg-blue-100 rounded-full p-4 w-16 h-16 mx-auto mb-4 flex items-center justify-center">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 text-blue-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+                        </svg>
+                    </div>
+                    <h3 class="font-semibold mb-2">Productos de Excelencia</h3>
+                    <p class="text-gray-600">Con estándares de calidad homologados por Hydro, Aluar, Alcemar, Flamia y Aluminios del Uruguay.</p>
+                </div>
+                <div class="text-center">
+                    <div class="bg-blue-100 rounded-full p-4 w-16 h-16 mx-auto mb-4 flex items-center justify-center">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 text-blue-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
+                        </svg>
+                    </div>
+                    <h3 class="font-semibold mb-2">Entrega Rápida</h3>
+                    <p class="text-gray-600">Sistema logístico eficiente para cumplir con sus plazos.</p>
+                </div>
+                <div class="text-center">
+                    <div class="bg-blue-100 rounded-full p-4 w-16 h-16 mx-auto mb-4 flex items-center justify-center">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 text-blue-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 9V7a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2m2 4h10a2 2 0 002-2v-6a2 2 0 00-2-2H9a2 2 0 00-2 2v6a2 2 0 002 2zm7-5a2 2 0 11-4 0 2 2 0 014 0z" />
+                        </svg>
+                    </div>
+                    <h3 class="font-semibold mb-2">Precios Mayoristas</h3>
+                    <p class="text-gray-600">Precios competitivos para proyectos de cualquier escala.</p>
+                </div>
+                <div class="text-center">
+                    <div class="bg-blue-100 rounded-full p-4 w-16 h-16 mx-auto mb-4 flex items-center justify-center">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 text-blue-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M18.364 5.636l-3.536 3.536m0 5.656l3.536 3.536M9.172 9.172L5.636 5.636m3.536 9.192l-3.536 3.536M21 12a9 9 0 11-18 0 9 9 0 0118 0zm-5 0a4 4 0 11-8 0 4 4 0 018 0z" />
+                        </svg>
+                    </div>
+                    <h3 class="font-semibold mb-2">Soporte Técnico</h3>
+                    <p class="text-gray-600">Distribuidora oficial con asesoramiento directo de Perfigom.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+
+
+    <div id="contacto" class="py-16 bg-gray-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <h2 class="text-3xl font-bold text-center mb-12">Contacto</h2>
+            <div class="max-w-lg mx-auto">
+                <div class="bg-white rounded-lg shadow-sm p-6 space-y-4">
+                    <!-- Phone contact -->
+                    <div class="flex items-center space-x-4">
+                        <div class="bg-blue-100 rounded-full p-3">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-blue-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
+                            </svg>
+                        </div>
+                        <div>
+                            <div class="text-sm text-gray-600">Atención telefónica</div>
+                            <div class="text-xl font-semibold text-blue-600">11 5021-1118</div>
+                            <div class="text-sm text-gray-500">Lunes a viernes 9 a 18 horas</div>
+                        </div>
+                    </div>
+                    
+                    <!-- Email contact -->
+                    <div class="flex items-center space-x-4">
+                        <div class="bg-blue-100 rounded-full p-3">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-blue-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
+                            </svg>
+                        </div>
+                        <div>
+                            <div class="text-sm text-gray-600">Correo electrónico</div>
+                            <div class="text-xl font-semibold text-blue-600">burleteszonanorte@gmail.com</div>
+                        </div>
+                    </div>
+    
+                    <!-- Form contact option -->
+                    <div class="flex items-center space-x-4">
+                        <div class="bg-blue-100 rounded-full p-3">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-blue-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0zM12 4v.01M12 19v.01M4 12h.01M20 12h.01M6.343 6.343l.01-.01M17.657 17.657l.01-.01M17.657 6.343l-.01-.01M6.343 17.657l-.01-.01" />
+                            </svg>
+                        </div>
+                        <div>
+                            <div class="text-sm text-gray-600">O envianos tu consulta directamente</div>
+                            <button onclick="openModal()" class="text-xl font-semibold text-blue-600 hover:text-blue-700">
+                                En <b>este formulario</b>
+                            </button>
+                            <div class="text-sm text-gray-500">y te respondemos a la brevedad</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+                
+                    <!-- Modal -->
+                    <div id="contactModal" class="modal">
+                        <div class="modal-content">
+                            <h3 class="text-2xl font-bold text-gray-800 mb-4">Consultá por los productos</h3>
+                            
+                            <form action="https://formspree.io/f/mqaekwye" method="POST" class="space-y-4">
+                                <div>
+                                    <label class="block text-sm font-medium text-gray-700">Nombre de tu empresa</label>
+                                    <input type="text" name="empresa" required class="mt-1 block w-full px-4 py-2 rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 border border-gray-200">
+                                </div>
+                                <div>
+                                    <label class="block text-sm font-medium text-gray-700">Tu mail</label>
+                                    <input type="email" name="_replyto" required class="mt-1 block w-full px-4 py-2 rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 border border-gray-200">
+                                </div>
+                                <div>
+                                    <label class="block text-sm font-medium text-gray-700">Tu teléfono</label>
+                                    <input type="tel" name="telefono" required class="mt-1 block w-full px-4 py-2 rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 border border-gray-200">
+                                </div>
+                                <div>
+                                    <label class="block text-sm font-medium text-gray-700">Tu consulta</label>
+                                    <textarea name="mensaje" rows="4" required class="mt-1 block w-full px-4 py-2 rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 border border-gray-200"></textarea>
+                                </div>
+                                <input type="hidden" name="_subject" value="Nueva consulta de Burletes Pro">
+                                <input type="text" name="_gotcha" style="display:none">
+                                <div class="flex justify-end space-x-3 pt-4">
+                                    <button type="button" onclick="closeModal()" class="px-4 py-2 text-gray-600 hover:text-gray-800 rounded-md border border-gray-300">Cerrar</button>
+                                    <button type="submit" class="px-6 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700">Enviar consulta</button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                
+                    <footer class="bg-gray-800 text-white py-8">
+                        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                            <div class="grid md:grid-cols-3 gap-8">
+                                <div>
+                                    <h3 class="text-lg font-semibold mb-4">Todo Burletes</h3>
+                                    <p class="text-gray-400">Distribuidora oficial de Burletes en Zona Norte.</p>
+                                </div>
+                                <div>
+                                    <h3 class="text-lg font-semibold mb-4">Contacto</h3>
+                                    <p class="text-gray-400">Email: burleteszonanorte@gmail.com</p>
+                                    <p class="text-gray-400">Tel: (11) 5021-1118</p>
+                                </div>
+                                <div>
+                                    <h3 class="text-lg font-semibold mb-4">Horarios de atención</h3>
+                                    <p class="text-gray-400">Lunes a Viernes: 8:00 - 17:00</p>
+                                    <p class="text-gray-400">Sábados: 9:00 - 13:00</p>
+                                </div>
+                            </div>
+                            <div class="mt-8 pt-8 border-t border-gray-700 text-center text-gray-400">
+                                <p>&copy; 2025 Todo Burletes. Todos los derechos reservados.</p>
+                            </div>
+                        </div>
+                    </footer>
+                
+                    <script>
+                        function openModal() {
+                            document.getElementById('contactModal').style.display = 'block';
+                            document.body.style.overflow = 'hidden';
+                        }
+                
+                        function closeModal() {
+                            document.getElementById('contactModal').style.display = 'none';
+                            document.body.style.overflow = 'auto';
+                        }
+                
+                        // Close modal when clicking outside
+                        document.addEventListener('click', function(event) {
+                            const modal = document.getElementById('contactModal');
+                            if (event.target === modal) {
+                                closeModal();
+                            }
+                        });
+                    </script>
+                </body>
+                </html>
