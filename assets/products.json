@@ -1,0 +1,2886 @@
+{
+  "1001": {
+    "name": "BURLETE PARTE V     AG044E",
+    "price": "$583",
+    "category_name": "CONSTRUCCION (PARTE)",
+    "category_code": "B"
+  },
+  "1002": {
+    "name": "BURLETE PARTE W     AG045E 8209-0",
+    "price": "$385",
+    "category_name": "CONSTRUCCION (PARTE)",
+    "category_code": "B"
+  },
+  "1003": {
+    "name": "BURLETE PARTE U      AG043E  8224",
+    "price": "$851",
+    "category_name": "CONSTRUCCION (PARTE)",
+    "category_code": "B"
+  },
+  "1004": {
+    "name": "BURLETE PARTE GG",
+    "price": "$917",
+    "category_name": "CONSTRUCCION (PARTE)",
+    "category_code": "B"
+  },
+  "1005": {
+    "name": "BURLETE PARTE HH",
+    "price": "$725",
+    "category_name": "CONSTRUCCION (PARTE)",
+    "category_code": "B"
+  },
+  "1006": {
+    "name": "BURLETE PARTE II BU 014",
+    "price": "$496",
+    "category_name": "CONSTRUCCION (PARTE)",
+    "category_code": "B"
+  },
+  "1007": {
+    "name": "BTE PARTE O EPDM AG 074E",
+    "price": "$1,050",
+    "category_name": "CONSTRUCCION (PARTE)",
+    "category_code": "B"
+  },
+  "1008": {
+    "name": "BURLETE PARTE T      AG005E",
+    "price": "$477",
+    "category_name": "CONSTRUCCION (PARTE)",
+    "category_code": "B"
+  },
+  "1008G": {
+    "name": "BURLETE PARTE T G",
+    "price": "$428"
+  },
+  "1009": {
+    "name": "BURLETE PARTE LM",
+    "price": "$1,060",
+    "category_name": "CONSTRUCCION (PARTE)",
+    "category_code": "B"
+  },
+  "1010": {
+    "name": "BURLETE PARTE LN",
+    "price": "$687",
+    "category_name": "CONSTRUCCION (PARTE)",
+    "category_code": "B"
+  },
+  "1012": {
+    "name": "BURLETE PARTE ADC",
+    "price": "$642",
+    "category_name": "CONSTRUCCION (PARTE)",
+    "category_code": "B"
+  },
+  "1013": {
+    "name": "BURLETE PARTE ACK",
+    "price": "$2,871",
+    "category_name": "CONSTRUCCION (PARTE)",
+    "category_code": "B"
+  },
+  "1014": {
+    "name": "BURLETE PARTE ACJ",
+    "price": "$1,185",
+    "category_name": "CONSTRUCCION (PARTE)",
+    "category_code": "B"
+  },
+  "1018": {
+    "name": "BURLETE PARTE AEF",
+    "price": "$1,403",
+    "category_name": "CONSTRUCCION (PARTE)",
+    "category_code": "B"
+  },
+  "1019": {
+    "name": "BURLETE PARTE LAB",
+    "price": "$998",
+    "category_name": "CONSTRUCCION (PARTE)",
+    "category_code": "B"
+  },
+  "1020": {
+    "name": "BURLETE PARTE AEL     BU029",
+    "price": "$565",
+    "category_name": "CONSTRUCCION (PARTE)",
+    "category_code": "B"
+  },
+  "1021": {
+    "name": "BURLETE PARTE AFO",
+    "price": "$1,091",
+    "category_name": "CONSTRUCCION (PARTE)",
+    "category_code": "B"
+  },
+  "1022": {
+    "name": "BURLETE PARTE AGM      8219",
+    "price": "$777",
+    "category_name": "CONSTRUCCION (PARTE)",
+    "category_code": "B"
+  },
+  "1022G": {
+    "name": "BURLETE PARTE AGM grande      8219",
+    "price": "$1,041"
+  },
+  "1024": {
+    "name": "BURLETE PARTE AHD",
+    "price": "$1,229",
+    "category_name": "CONSTRUCCION (PARTE)",
+    "category_code": "B"
+  },
+  "1025": {
+    "name": "BURLETE PARTE AHE",
+    "price": "$804",
+    "category_name": "CONSTRUCCION (PARTE)",
+    "category_code": "B"
+  },
+  "1026": {
+    "name": "BURLETE PARTE AHF",
+    "price": "$1,519",
+    "category_name": "CONSTRUCCION (PARTE)",
+    "category_code": "B"
+  },
+  "1027": {
+    "name": "BURLETE PARTE AHJ",
+    "price": "$2,559",
+    "category_name": "CONSTRUCCION (PARTE)",
+    "category_code": "B"
+  },
+  "1028": {
+    "name": "BURLETE PARTE AHI    50 MTS",
+    "price": "$3,558",
+    "category_name": "CONSTRUCCION (PARTE)",
+    "category_code": "B"
+  },
+  "1030": {
+    "name": "BURLETE PARTE AGT",
+    "price": "$1,117",
+    "category_name": "CONSTRUCCION (PARTE)",
+    "category_code": "B"
+  },
+  "1031": {
+    "name": "BURLETE  BPV",
+    "price": "$812",
+    "category_name": "CONSTRUCCION (PARTE)",
+    "category_code": "B"
+  },
+  "1032": {
+    "name": "BURLETE PARTE ACI        200 mts.",
+    "price": "$852",
+    "category_name": "CONSTRUCCION (PARTE)",
+    "category_code": "B"
+  },
+  "1033": {
+    "name": "BURLETE PARTE AGB",
+    "price": "$681",
+    "category_name": "CONSTRUCCION (PARTE)",
+    "category_code": "B"
+  },
+  "1034": {
+    "name": "BURLETE PARTE  VA",
+    "price": "$2,415",
+    "category_name": "CONSTRUCCION (PARTE)",
+    "category_code": "B"
+  },
+  "1035": {
+    "name": "BURLETE GL 1147 INT. PAÑO FIJO EPDM",
+    "price": "$1,316",
+    "category_name": "CONSTRUCCION (PARTE)",
+    "category_code": "B"
+  },
+  "1036": {
+    "name": "BTE GL 1148 INTERIOR VENTANA",
+    "price": "$1,591",
+    "category_name": "CONSTRUCCION (PARTE)",
+    "category_code": "B"
+  },
+  "1037E": {
+    "name": "BTE GL 1162 EXT. PAÑO FIJO EPDM",
+    "price": "$2,414"
+  },
+  "1038E": {
+    "name": "BTE GL 1163 EXT. PAÑO FIJO EPDM",
+    "price": "$1,207"
+  },
+  "1039E": {
+    "name": "BTE GL 1164 EXT. PAÑO FIJO EPDM",
+    "price": "$1,510"
+  },
+  "1101": {
+    "name": "BURLETE FAST 022",
+    "price": "$2,308",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1102": {
+    "name": "BURLETE FAST 033",
+    "price": "$1,060",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1103": {
+    "name": "BURLETE JUNTA ABIERTA  AG022E",
+    "price": "$1,832",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1104": {
+    "name": "BTE CONTACTO INTERIOR  AG033E",
+    "price": "$1,190",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1105": {
+    "name": "BTE INTERIOR DE TECHO  AG056E",
+    "price": "$1,575",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1106": {
+    "name": "BURLETE                AG042E",
+    "price": "$423",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1107": {
+    "name": "BTE INTERIOR GRUESO     AG055E",
+    "price": "$1,080",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1108": {
+    "name": "BURLETE INT. DE HOJA   AG552E",
+    "price": "$594",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1109": {
+    "name": "BTE EXT. DE VIDRIO 4MM AG008E",
+    "price": "$1,166",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1110": {
+    "name": "BTE INTERIOR VIDRIO 3MM AG554E",
+    "price": "$622",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1111": {
+    "name": "BURLETE JUNTA CENTRAL    AG550E",
+    "price": "$2,065",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1111L5500": {
+    "name": "BTE JUNTA CENTRAL L.5500 AG550E",
+    "price": "$11,358"
+  },
+  "1112": {
+    "name": "BTE LAT DE COLUM.      AG161HE",
+    "price": "$756",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1113": {
+    "name": "BTE DOBLE CONTACTO EXT. AG060E",
+    "price": "$933",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1114": {
+    "name": "BTE INTERIOR FINO     AG054E",
+    "price": "$918",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1115": {
+    "name": "BTE INT. DE VIDRIO 4MM  AG556E",
+    "price": "$739",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1116": {
+    "name": "BTE INT. DE VIDRIO 5 MM  AG225E",
+    "price": "$840",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1117": {
+    "name": "BURLETE INTERIOR DE VIDRIO 6 MM AG226E",
+    "price": "$1,176",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1118": {
+    "name": "BTE CLIP DE FIJACION   AG112E",
+    "price": "$753",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1119": {
+    "name": "BTE PROYECTANTE ECOTHERMIC   AG559E",
+    "price": "$1,034",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1120": {
+    "name": "BURLETE EXT. PARA VIDRIO H.O.   AG480E",
+    "price": "$2,502"
+  },
+  "1121": {
+    "name": "BTE JUNTA CENTRAL PLUS     AG551E",
+    "price": "$4,364",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1122": {
+    "name": "BTE RES.SELLADOR VIDRIO  AG070E",
+    "price": "$831",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1123": {
+    "name": "BTE CRUCE DE HOJAS        AG071E",
+    "price": "$700",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1124": {
+    "name": "BTE MOSQUITERO HA 110           AG072E",
+    "price": "$1,682",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1125": {
+    "name": "BTE MECANISMO ALZANTE      AG073E",
+    "price": "$588",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1126": {
+    "name": "BTE EXT. FRENTE VIDRIADO AG053E  B14A",
+    "price": "$753",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1127": {
+    "name": "BURLETE  BARANDA    AG 080E",
+    "price": "$3,513",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1128": {
+    "name": "BTE INT DE HOJA HA62    AG560E",
+    "price": "$656",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1129": {
+    "name": "BTE EXT VIDRIO 2,5 HA62 AG562E",
+    "price": "$874",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1130": {
+    "name": "BTE JUNTA CENTRAL HA62 AG564E",
+    "price": "$2,585",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1132": {
+    "name": "BTE HOJA PROYECTANTE HA62 AG568E",
+    "price": "$1,526",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1133": {
+    "name": "BTE. MARCO PUERTA      AG335E",
+    "price": "$1,347",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1134": {
+    "name": "BTE EXT VIDRIO 2,5 HA62 AG562E REFORMA",
+    "price": "$656",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1135": {
+    "name": "BURLETE               AG090E",
+    "price": "$1,934",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1136": {
+    "name": "BTE APOYO RESPALDO EXT AG174E",
+    "price": "$2,003",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1137": {
+    "name": "BTE RESPALDO INT. DVH  AG175E",
+    "price": "$874",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1140": {
+    "name": "BURLETE  BARANDA 6MM AG 081E",
+    "price": "$5,638",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1141": {
+    "name": "BTE MOSQUITERO         AG065E",
+    "price": "$1,151",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1142": {
+    "name": "Bte. interior de vidrio 3 mm AG584E",
+    "price": "$1,171",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1144": {
+    "name": "BURLETE AG-580E",
+    "price": "$878",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1145": {
+    "name": "BURLETE AG-582E",
+    "price": "$779",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1146": {
+    "name": "BTE EXT MULLIONS      AG303E",
+    "price": "$1,171",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1147": {
+    "name": "BTE EXT HOJA          AG302E",
+    "price": "$1,014",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1148": {
+    "name": "BTE MULLIONS e INT HOJA AG301E",
+    "price": "$613",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1149": {
+    "name": "BTE MARCO PUERTA AG566E REFORMA",
+    "price": "$943",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1150": {
+    "name": "BTE MOSQUITERO         AG035E",
+    "price": "$1,124",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1151": {
+    "name": "Guarnicion p/travesano ADR1437 AG180E",
+    "price": "$2,408",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "11510E": {
+    "name": "JUNTA EN V 35*50 EPDM",
+    "price": "$26,567"
+  },
+  "11510N": {
+    "name": "JUNTA EN V 35*50 NEOPRENE",
+    "price": "$41,297"
+  },
+  "1152L2000": {
+    "name": "Bte p/baranda PVC L 2000  AA358/6",
+    "price": "$8,870"
+  },
+  "1153": {
+    "name": "Guarnicion cierre de mar/hoja ext AG601",
+    "price": "$1,809",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1154": {
+    "name": "Guarnicion cierre marco/hoja int. AG602",
+    "price": "$1,422",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1155": {
+    "name": "BTE RESPALDO AG057 EPDM",
+    "price": "$1,714",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1156": {
+    "name": "Bte mosquitero simil parte O",
+    "price": "$1,416",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1162": {
+    "name": "Bte en EPDM                    AG091E",
+    "price": "$7,730",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1163": {
+    "name": "Bte en EPDM                   AG092E",
+    "price": "$5,457",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1165": {
+    "name": "Bte para mosquitero            AG074E",
+    "price": "$1,777",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "1166": {
+    "name": "JUNTA HA 135 AG610 E",
+    "price": "$2,269",
+    "category_name": "LiNEA HYDRO",
+    "category_code": "C"
+  },
+  "12001": {
+    "name": "BURLETE",
+    "price": "$776"
+  },
+  "12002": {
+    "name": "BURLETE",
+    "price": "$743",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12004": {
+    "name": "BURLETE",
+    "price": "$1,021",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12006": {
+    "name": "BURLETE",
+    "price": "$439",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12009": {
+    "name": "TOPE DE 90 MM   CB 508",
+    "price": "$2,174",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12011": {
+    "name": "BURLETE TOPE VIDRIO",
+    "price": "$948",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12012": {
+    "name": "BURLETE",
+    "price": "$5,985",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12017": {
+    "name": "BURLETE",
+    "price": "$802",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12018": {
+    "name": "BURLETE SA 2200 MODIF. ALT. 10MM",
+    "price": "$1,497",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12019": {
+    "name": "BURLETE CUÑA PARAG. MEDIANA",
+    "price": "$439",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12019G": {
+    "name": "BURLETE CUÑA PARAG. MEDIANA GRANDE",
+    "price": "$548"
+  },
+  "12020": {
+    "name": "BURLETE",
+    "price": "$657",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12021": {
+    "name": "BURLETE",
+    "price": "$1,513",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12022": {
+    "name": "BURLETE ZOCALO",
+    "price": "$739",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12023": {
+    "name": "BURLETE",
+    "price": "$1,587",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12024": {
+    "name": "BURLETE CB 510",
+    "price": "$962",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12025": {
+    "name": "BURLETE APOYO RESP.EXT.AG174E",
+    "price": "$2,003",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12026": {
+    "name": "BURLETE         A2670 AST2804",
+    "price": "$888",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12027": {
+    "name": "BURLETE     A2950   R 200",
+    "price": "$1,100",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12028": {
+    "name": "BURLETE",
+    "price": "$554",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12029": {
+    "name": "BURLETE",
+    "price": "$3,765",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12030": {
+    "name": "BURLETE",
+    "price": "$2,725",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12031": {
+    "name": "BURLETE PIEL DE VIDRIO",
+    "price": "$1,252",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12032": {
+    "name": "BURLETE",
+    "price": "$1,331",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12034": {
+    "name": "BURLETE",
+    "price": "$1,607",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12035": {
+    "name": "BURLETE COLUMNA",
+    "price": "$4,856",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12035L2000": {
+    "name": "BURLETE COLUMNA LARGO 2000 MM",
+    "price": "$9,711"
+  },
+  "12035L2100": {
+    "name": "BURLETE COLUMNA LARGO 2100 MM",
+    "price": "$10,197"
+  },
+  "12035L3000": {
+    "name": "BURLETE COLUMNA LARGO 3000 MM",
+    "price": "$14,567"
+  },
+  "12036": {
+    "name": "BURLETE P/VIDRIO",
+    "price": "$3,802",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12037": {
+    "name": "BURLETE P/PLACA",
+    "price": "$1,950",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12041": {
+    "name": "BURLETE",
+    "price": "$660",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12042": {
+    "name": "BURLETE",
+    "price": "$1,641",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12043": {
+    "name": "BURLETE SIMPSON EPDM   8230-0",
+    "price": "$1,250",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12044": {
+    "name": "BURLETE UNIVERSAL   (B32 L)",
+    "price": "$1,269",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12045": {
+    "name": "BURLETE GUARDACANTO",
+    "price": "$5,701",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12046": {
+    "name": "BURLETE (TIPO AEL)",
+    "price": "$625",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12047": {
+    "name": "BURLETE UNIVERSAL 84545-6",
+    "price": "$799",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12048": {
+    "name": "BURLETE",
+    "price": "$3,539",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12049": {
+    "name": "BURLETE P/MAMPARA TIPO GG",
+    "price": "$1,092",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12050": {
+    "name": "BTE. PERIM. PTA. 85075-1",
+    "price": "$1,010",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12052E": {
+    "name": "BURLETE TIPO B2 EPDM NEGRO",
+    "price": "$1,502"
+  },
+  "12055": {
+    "name": "BURLETE TIPO B1 EPDM NEGRO",
+    "price": "$2,082",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12060": {
+    "name": "BURLETE CODIGO  A-981",
+    "price": "$685",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12062T4500": {
+    "name": "BURLETE",
+    "price": "$32,873"
+  },
+  "12063": {
+    "name": "BURLETE PERIMETRAL         829924",
+    "price": "$940"
+  },
+  "12064": {
+    "name": "BURLETE",
+    "price": "$858",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12065": {
+    "name": "BURLETE HJA/HJA       830391",
+    "price": "$588",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12066": {
+    "name": "BURLETE",
+    "price": "$933",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12067": {
+    "name": "BURLETE ZOCALO",
+    "price": "$1,226",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12069": {
+    "name": "CUÑA PARAGUAYA MAXI 8202-0 MULTI GRANDE",
+    "price": "$1,060",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12070": {
+    "name": "burlete",
+    "price": "$1,221",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12071": {
+    "name": "BURLETE UNIVERSAL 3 MM   856935",
+    "price": "$801",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12073": {
+    "name": "BURLETE            A2940",
+    "price": "$4,245",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12074": {
+    "name": "BURLETE ZOCALO",
+    "price": "$839",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12075": {
+    "name": "BURLETE TIPO U",
+    "price": "$522",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12079": {
+    "name": "BURLETE",
+    "price": "$2,440",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12080": {
+    "name": "BURLETE",
+    "price": "$675",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12081": {
+    "name": "BTE U PUERTA AUTOMATICA   H101",
+    "price": "$2,372",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12082": {
+    "name": "BURLETE TUBULAR          H100",
+    "price": "$2,462",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12083": {
+    "name": "BURLETE                AFA161",
+    "price": "$1,983",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12085": {
+    "name": "BURLETE                9411",
+    "price": "$3,232",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12087": {
+    "name": "BTE. B3 CUÑA           AGT2764",
+    "price": "$1,662",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12093": {
+    "name": "BURLETE",
+    "price": "$4,737"
+  },
+  "12098": {
+    "name": "burlete B13 en EPDM",
+    "price": "$2,590",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12099": {
+    "name": "BTE. CONTRAVIDRIO 2,5 ROY 939 BUR 01",
+    "price": "$1,309",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12100": {
+    "name": "BTE. CONTRAVIDRIO 4,5 ROY 940 BUR 02",
+    "price": "$1,830",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12101": {
+    "name": "BTE DE PUERTA INTERIOR 16 MM.",
+    "price": "$1,725"
+  },
+  "12102": {
+    "name": "BURLETE",
+    "price": "$893",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12103": {
+    "name": "BTE DE PUERTA EXTERIOR 9 MM",
+    "price": "$1,497",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12105": {
+    "name": "BTE. MOSQUITERO TIPO O  AG065E",
+    "price": "$1,151",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12111": {
+    "name": "BURL. PERIMETRAL TEKNA 82993-7",
+    "price": "$802",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12112": {
+    "name": "BURLETE DE HOJA",
+    "price": "$2,257",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12113": {
+    "name": "BURLETE BARRERA INFERIOR",
+    "price": "$1,932",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12114": {
+    "name": "BURLETE SOLAPA SUPERIOR",
+    "price": "$1,550",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12115": {
+    "name": "BURLETE",
+    "price": "$609",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12116": {
+    "name": "BURLETE POLI",
+    "price": "$3,730",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12117": {
+    "name": "BURLETE A 2970         AST2524",
+    "price": "$1,756",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12120": {
+    "name": "BURLETE",
+    "price": "$1,518",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12126": {
+    "name": "BURLETE",
+    "price": "$2,259",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12130": {
+    "name": "BURLETE AST2514",
+    "price": "$1,124",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12131": {
+    "name": "BURLETE DE CIERRE INFERIOR",
+    "price": "$2,709",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12132": {
+    "name": "BURLETE EXTREMO DE HOJAS",
+    "price": "$1,073",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12133": {
+    "name": "BURLETE MARCO CIERRE INT.",
+    "price": "$2,227",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12143": {
+    "name": "BTE ENCUENTRO VENTANA ROY 985",
+    "price": "$893",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12144": {
+    "name": "BURLETE",
+    "price": "$1,034",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12147": {
+    "name": "BURLETE ROYAL",
+    "price": "$675",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12149": {
+    "name": "BURLETE",
+    "price": "$2,285"
+  },
+  "12152": {
+    "name": "BURLETE BAJO PUERTA",
+    "price": "$682",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12156": {
+    "name": "BTE PARAGUAYA MAXI MAXI",
+    "price": "$1,671",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12159": {
+    "name": "BURLETE U MAXI MAXI REFORMA",
+    "price": "$1,245",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12167": {
+    "name": "BTE VENT ABRIR VARESE",
+    "price": "$1,354",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12168": {
+    "name": "BURLETE CONTACTO EXTERIOR",
+    "price": "$660",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12169": {
+    "name": "BTE TAPA SELLO EPDM R50 9417-5",
+    "price": "$1,573",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12172": {
+    "name": "BURLETE",
+    "price": "$4,848",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12173": {
+    "name": "BURLETE P/A. INOXIDABLE",
+    "price": "$3,136",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12174": {
+    "name": "BURLETE                AGT2844",
+    "price": "$786",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12175": {
+    "name": "BURLETE EN EPDM AGT2614   R 200 MTS",
+    "price": "$738",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12177": {
+    "name": "BURLETE DE FRENTE",
+    "price": "$2,772",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12178": {
+    "name": "BTE. CONTRAVIDRIO 5,5 ROY 941",
+    "price": "$2,123",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12179": {
+    "name": "BURLETE BULBO",
+    "price": "$434",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12196": {
+    "name": "BURLETE JUNTA",
+    "price": "$5,607",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12210": {
+    "name": "BTE CUÑA PARAG. MEDIANA",
+    "price": "$631",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12211": {
+    "name": "BTE B 52 N.",
+    "price": "$608",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12228": {
+    "name": "BURLETE b-2302 H 03",
+    "price": "$588",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12231": {
+    "name": "BURLETE",
+    "price": "$1,662",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12235": {
+    "name": "BURLETE      CODIGO 9317",
+    "price": "$1,457",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12248": {
+    "name": "Burlete cortina tablilla 77 EPDM",
+    "price": "$2,252",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12249": {
+    "name": "Bte zocalo tablilla 77 EPDM",
+    "price": "$1,781",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12250": {
+    "name": "Bte zocalo tablilla    EPDM",
+    "price": "$844",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12262": {
+    "name": "Bte vagon",
+    "price": "$1,799",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12263": {
+    "name": "BURLETE",
+    "price": "$779",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12267": {
+    "name": "BURLETE BULBO",
+    "price": "$641",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12268": {
+    "name": "BURLETE TOPE",
+    "price": "$3,480",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12269": {
+    "name": "BURLETE ZW",
+    "price": "$491",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12274": {
+    "name": "BURLETE",
+    "price": "$1,621",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12284": {
+    "name": "BURLTE TIPO B60",
+    "price": "$1,091",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12286": {
+    "name": "BURLETE          1985B",
+    "price": "$1,019",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12287": {
+    "name": "BTE CUÑA PARAGUAYA MAXI REF.",
+    "price": "$962",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12289": {
+    "name": "BTE SILICONA TERRACOTA",
+    "price": "$7,402",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12297": {
+    "name": "BTE S H PUERTA/TERMINACION",
+    "price": "$884",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12299": {
+    "name": "BTE SH BARREDOR",
+    "price": "$1,214",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12300": {
+    "name": "BURLETE LICHE",
+    "price": "$1,144",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": "J"
+  },
+  "12312": {
+    "name": "BURLETE TIPO AEL REF.",
+    "price": "$713"
+  },
+  "12316": {
+    "name": "burlete u const",
+    "price": "$1,186"
+  },
+  "12322": {
+    "name": "BURLETE 5 MM SIL. NEGRA",
+    "price": "$4,821"
+  },
+  "12328": {
+    "name": "BURLETE                   CP163",
+    "price": "$764"
+  },
+  "12337": {
+    "name": "BTE. TAPA TECHO",
+    "price": "$2,099"
+  },
+  "12338": {
+    "name": "BTE. VAGON HUECO",
+    "price": "$1,335"
+  },
+  "12338T3200": {
+    "name": "BTE. VAGON HUECO LARGO 3200",
+    "price": "$4,274"
+  },
+  "12339": {
+    "name": "BURLETE TIPO U",
+    "price": "$747"
+  },
+  "12343": {
+    "name": "BURLETE TIPO AEL",
+    "price": "$434"
+  },
+  "12349": {
+    "name": "BTE UNIVERSAL",
+    "price": "$934"
+  },
+  "12355": {
+    "name": "BURLETE",
+    "price": "$785"
+  },
+  "12356": {
+    "name": "BURLETE",
+    "price": "$1,945"
+  },
+  "12357": {
+    "name": "BTE BARANDA P/VIDRIO 8 MM. 9547",
+    "price": "$3,100"
+  },
+  "12358": {
+    "name": "BTE BARANDA P/VIDRIO 6 MM. 9546",
+    "price": "$3,965"
+  },
+  "12363": {
+    "name": "BURLETE UMBRAL Y LAT EPDM B1",
+    "price": "$12,900"
+  },
+  "12365": {
+    "name": "BTE MODENA BATIENTE",
+    "price": "$1,134"
+  },
+  "12366": {
+    "name": "BTE UNIVERSAL",
+    "price": "$961"
+  },
+  "12368": {
+    "name": "BTE COLITA                R. 200 MTS",
+    "price": "$621"
+  },
+  "12369": {
+    "name": "bte en EPDM tipo c",
+    "price": "$657"
+  },
+  "12376": {
+    "name": "BURLETE HUECO",
+    "price": "$1,344"
+  },
+  "12377": {
+    "name": "Burlete Zocalo",
+    "price": "$639"
+  },
+  "12378": {
+    "name": "Bte hermeticidad C-16 RPT 9422",
+    "price": "$2,653"
+  },
+  "12378G": {
+    "name": "Bte hoja de abrir monaco RPT/15  9455",
+    "price": "$2,785"
+  },
+  "12384": {
+    "name": "BURLETE U ESTRIADA",
+    "price": "$1,066"
+  },
+  "12388": {
+    "name": "BTE JUNTA RPT 9411     R 50 MTS",
+    "price": "$2,518"
+  },
+  "12389": {
+    "name": "Bte apoyo de travesa､o 9607",
+    "price": "$2,896"
+  },
+  "12389L4000": {
+    "name": "Bte apoyo de travesa､o L4000    9607",
+    "price": "$11,584"
+  },
+  "12390": {
+    "name": "Bte larguero  de techo 9605",
+    "price": "$1,877"
+  },
+  "12391": {
+    "name": "Bte travesa､o de techo 9606",
+    "price": "$1,056"
+  },
+  "12392T2000": {
+    "name": "Bte encuentro EPDM L2000 9608",
+    "price": "$7,422"
+  },
+  "12392T4000": {
+    "name": "Bte encuentro EPDM L4000 9608",
+    "price": "$14,844"
+  },
+  "12393": {
+    "name": "Bte. tipo B69",
+    "price": "$428"
+  },
+  "12395": {
+    "name": "Bte. hoja puerta lengueta 9232-0",
+    "price": "$641"
+  },
+  "12396": {
+    "name": "Bte. bulbo con aleta",
+    "price": "$1,500"
+  },
+  "12397": {
+    "name": "Bte.",
+    "price": "$2,997"
+  },
+  "12398": {
+    "name": "Bte.",
+    "price": "$3,172"
+  },
+  "12407": {
+    "name": "Bte hermet. hoja elevable 9698",
+    "price": "$633"
+  },
+  "12411": {
+    "name": "burlete",
+    "price": "$4,014"
+  },
+  "12415": {
+    "name": "BTE EN EPDM   FN-E",
+    "price": "$1,157"
+  },
+  "12416": {
+    "name": "BTE EN EPDM   FN1",
+    "price": "$850"
+  },
+  "12420": {
+    "name": "Burlete N 2 en EPDM",
+    "price": "$556"
+  },
+  "12421": {
+    "name": "Burlete N 9 en EPDM",
+    "price": "$989"
+  },
+  "12422": {
+    "name": "Burlete N 1 en EPDM",
+    "price": "$660"
+  },
+  "12423": {
+    "name": "Burlete N 3 en EPDM",
+    "price": "$1,240"
+  },
+  "12424": {
+    "name": "Burlete N 7 en EPDM",
+    "price": "$1,331"
+  },
+  "12425": {
+    "name": "Burlete N 11 en EPDM",
+    "price": "$238"
+  },
+  "12426": {
+    "name": "Burlete N 5 en EPDM",
+    "price": "$652"
+  },
+  "12427": {
+    "name": "Burlete N 6 en EPDM",
+    "price": "$2,794"
+  },
+  "12428": {
+    "name": "Burlete N 12 en EPDM",
+    "price": "$370"
+  },
+  "12429": {
+    "name": "BTE MARCO CONTACTO EXTERIOR   9704",
+    "price": "$673"
+  },
+  "12437C": {
+    "name": "BTE EN EPDM",
+    "price": "$554"
+  },
+  "12440": {
+    "name": "BTE TIPO U",
+    "price": "$6,166"
+  },
+  "12441": {
+    "name": "Bte. tipo u",
+    "price": "$908"
+  },
+  "12443": {
+    "name": "Burlete",
+    "price": "$730"
+  },
+  "12448": {
+    "name": "BURLETE FN-F",
+    "price": "$1,169"
+  },
+  "12449": {
+    "name": "BURLETE FN-G",
+    "price": "$1,033"
+  },
+  "12450": {
+    "name": "BURLETE FN-D",
+    "price": "$974"
+  },
+  "12451": {
+    "name": "Burlete",
+    "price": "$2,017"
+  },
+  "12454": {
+    "name": "Bte guia de coliza en EPDM",
+    "price": "$1,049"
+  },
+  "12455": {
+    "name": "Bte. tipo bisagra",
+    "price": "$993"
+  },
+  "12458": {
+    "name": "Bte camara RPT 25 mm en EPDM COD. 9414",
+    "price": "$4,109"
+  },
+  "12459": {
+    "name": "Burlete tipo B78",
+    "price": "$862"
+  },
+  "12468": {
+    "name": "BURLETE SIMPSON EPDM   8230-0",
+    "price": "$1,359"
+  },
+  "12469": {
+    "name": "Banda protectora silicona 75mm",
+    "price": "$8,677"
+  },
+  "12474": {
+    "name": "Bte. interior TGF-FA-010",
+    "price": "$5,505"
+  },
+  "12475": {
+    "name": "Bte. exterior TGF-FA-011",
+    "price": "$5,199"
+  },
+  "12481": {
+    "name": "Guarnicion en EPDM PG 3105",
+    "price": "$1,106"
+  },
+  "12496": {
+    "name": "Burlete junta aluminio EPDM",
+    "price": "$4,010"
+  },
+  "12497": {
+    "name": "BURLETE",
+    "price": "$5,045"
+  },
+  "12498": {
+    "name": "Bte en EPDM",
+    "price": "$912"
+  },
+  "12505": {
+    "name": "Bte. mosquitero B16/70 8449-0",
+    "price": "$1,622"
+  },
+  "12506": {
+    "name": "Burlete",
+    "price": "$1,708"
+  },
+  "12507": {
+    "name": "Burlete en  EPDM",
+    "price": "$1,632"
+  },
+  "12508": {
+    "name": "CUÑA PARAGUAYA 6 mm",
+    "price": "$709"
+  },
+  "12509": {
+    "name": "Burlete doble bulbo simil Gua 160",
+    "price": "$1,565"
+  },
+  "12510": {
+    "name": "Bte cruce de hojas EPDM             938",
+    "price": "$2,105"
+  },
+  "12511": {
+    "name": "BTE APOYO VID FIJO SILICONA  9364",
+    "price": "$2,973"
+  },
+  "12512": {
+    "name": "BTE APOYO VID FIJO SILICONA 9365",
+    "price": "$3,716"
+  },
+  "12518": {
+    "name": "Bte simpson EPDM",
+    "price": "$2,175"
+  },
+  "12519": {
+    "name": "Bte cuna    EPDM",
+    "price": "$2,571"
+  },
+  "12521L3700": {
+    "name": "Burlete L 3700 EPDM",
+    "price": "$7,247"
+  },
+  "12521L4820": {
+    "name": "Burlete L 4820 EPDM",
+    "price": "$9,440"
+  },
+  "12521L4850": {
+    "name": "Burlete L 4850 EPDM",
+    "price": "$9,499"
+  },
+  "12521L5000": {
+    "name": "BURLETE L 5000 EPDM",
+    "price": "$9,793"
+  },
+  "12528": {
+    "name": "Bte cierre de jambas EPDM",
+    "price": "$791"
+  },
+  "12531": {
+    "name": "Bte parasol 2da version en EPDM",
+    "price": "$2,287"
+  },
+  "12533T3000": {
+    "name": "Bte cuna L baranda SP        9165",
+    "price": "$34,539"
+  },
+  "12534T3000": {
+    "name": "Bte cuna L baranda SP        9162",
+    "price": "$32,853"
+  },
+  "12535T3000": {
+    "name": "Bte cuna  baranda SP        9163",
+    "price": "$24,438"
+  },
+  "12536": {
+    "name": "Bte apoyo vidrio Baranda SP SPL   9160",
+    "price": "$1,659"
+  },
+  "12539": {
+    "name": "Bte simpson en EPDM",
+    "price": "$1,346"
+  },
+  "12540": {
+    "name": "Bte hoja de abrir monaco RPT/25  9456",
+    "price": "$3,249"
+  },
+  "12542T3000": {
+    "name": "Bte cuna L baranda SPL       9166",
+    "price": "$29,485"
+  },
+  "12543": {
+    "name": "Bte cruce de hoja (S-TG)         9347",
+    "price": "$645"
+  },
+  "12544": {
+    "name": "Bte tope hoja movil C/marco (MF)  9343",
+    "price": "$837"
+  },
+  "12548": {
+    "name": "Bte EPDM",
+    "price": "$1,285"
+  },
+  "12549": {
+    "name": "Bte junta central RPT EPDM   3051",
+    "price": "$3,937"
+  },
+  "12550": {
+    "name": "Burlete en EPDM FCH",
+    "price": "$10,246"
+  },
+  "12553": {
+    "name": "Bte tipo simpson en EPDM",
+    "price": "$1,167"
+  },
+  "12554": {
+    "name": "Bte enc. corred. elevable flock     969",
+    "price": "$903"
+  },
+  "12556T3000": {
+    "name": "Bte cuna L baranda SP    COD. 9165",
+    "price": "$42,454"
+  },
+  "12563": {
+    "name": "Bte silicona trasl",
+    "price": "$2,126"
+  },
+  "12565": {
+    "name": "BURLETE CUÑA PARAG.",
+    "price": "$580"
+  },
+  "12575": {
+    "name": "BTE APOYO VID 8.6 MM SILICONA CX242DSC",
+    "price": "$4,700"
+  },
+  "12589": {
+    "name": "Bte compl vert ventil CWE1 SILIC.CXE67S",
+    "price": "$8,697"
+  },
+  "12592": {
+    "name": "Bte. U patas  desparejas en EPDM",
+    "price": "$3,090"
+  },
+  "12598": {
+    "name": "Bte  perimetral vidrio DVH CX265SL.02SI",
+    "price": "$27,175"
+  },
+  "12607": {
+    "name": "Bte en EPDM p/mampara rebaatible",
+    "price": "$816"
+  },
+  "12608": {
+    "name": "Bte similar a B79 EPDM",
+    "price": "$539"
+  },
+  "12618": {
+    "name": "Bte en EPDM  tipo simpson",
+    "price": "$1,233"
+  },
+  "12627": {
+    "name": "Bte en EPDM TIPO ESPADA DE 112 MM",
+    "price": "$9,223"
+  },
+  "12628N": {
+    "name": "Bte en EPDM                      9697",
+    "price": "$1,027"
+  },
+  "12641E": {
+    "name": "BTE MOSQUITERO EPDM S/MUESTRA",
+    "price": "$919"
+  },
+  "12653": {
+    "name": "BTE EPDM",
+    "price": "$1,081"
+  },
+  "12659": {
+    "name": "BTE GUA 160 CHICO EPDM",
+    "price": "$1,268"
+  },
+  "12661": {
+    "name": "BTE SIMPSON EPDM",
+    "price": "$1,201"
+  },
+  "1306": {
+    "name": "BURLETE B 16 B 70",
+    "price": "$1,004",
+    "category_name": "LiNEA CONSTRUCCION",
+    "category_code": "D"
+  },
+  "1313": {
+    "name": "BURLETE B 25           8227",
+    "price": "$957",
+    "category_name": "LiNEA CONSTRUCCION",
+    "category_code": "D"
+  },
+  "1315": {
+    "name": "BURLETE B 28",
+    "price": "$3,901",
+    "category_name": "LiNEA CONSTRUCCION",
+    "category_code": "D"
+  },
+  "1316": {
+    "name": "BTE. B29  AG063E  BO29 AGT2514",
+    "price": "$414",
+    "category_name": "LiNEA CONSTRUCCION",
+    "category_code": "D"
+  },
+  "1317": {
+    "name": "BURLETE B 30     B030",
+    "price": "$530",
+    "category_name": "LiNEA CONSTRUCCION",
+    "category_code": "D"
+  },
+  "1318": {
+    "name": "BURLETE B 31   B031  8418-0",
+    "price": "$840",
+    "category_name": "LiNEA CONSTRUCCION",
+    "category_code": "D"
+  },
+  "1319": {
+    "name": "BURLETE B-32 EPDM",
+    "price": "$1,229",
+    "category_name": "LiNEA CONSTRUCCION",
+    "category_code": "D"
+  },
+  "1320": {
+    "name": "BURLETE B 33",
+    "price": "$1,722",
+    "category_name": "LiNEA CONSTRUCCION",
+    "category_code": "D"
+  },
+  "1324": {
+    "name": "BURLETE B 37           8753-0",
+    "price": "$530",
+    "category_name": "LiNEA CONSTRUCCION",
+    "category_code": "D"
+  },
+  "1324FI": {
+    "name": "BURLETE B 37 F I",
+    "price": "$656"
+  },
+  "1325": {
+    "name": "BURLETE B 38",
+    "price": "$812",
+    "category_name": "LiNEA CONSTRUCCION",
+    "category_code": "D"
+  },
+  "1326": {
+    "name": "BURLETE B 39",
+    "price": "$336",
+    "category_name": "LiNEA CONSTRUCCION",
+    "category_code": "D"
+  },
+  "1327": {
+    "name": "BURLETE B 40",
+    "price": "$713",
+    "category_name": "LiNEA CONSTRUCCION",
+    "category_code": "D"
+  },
+  "1328": {
+    "name": "BURLETE B 44",
+    "price": "$1,054",
+    "category_name": "LiNEA CONSTRUCCION",
+    "category_code": "D"
+  },
+  "1329": {
+    "name": "BURLETE B 45",
+    "price": "$2,271",
+    "category_name": "LiNEA CONSTRUCCION",
+    "category_code": "D"
+  },
+  "1333": {
+    "name": "BURLETE B 49",
+    "price": "$1,013",
+    "category_name": "LiNEA CONSTRUCCION",
+    "category_code": "D"
+  },
+  "1335": {
+    "name": "BURLETE B 51",
+    "price": "$1,332",
+    "category_name": "LiNEA CONSTRUCCION",
+    "category_code": "D"
+  },
+  "1336": {
+    "name": "BURLETE B-52 EPDM",
+    "price": "$464",
+    "category_name": "LiNEA CONSTRUCCION",
+    "category_code": "D"
+  },
+  "1338": {
+    "name": "BURLETE B 54",
+    "price": "$5,425",
+    "category_name": "LiNEA CONSTRUCCION",
+    "category_code": "D"
+  },
+  "1339": {
+    "name": "BURLETE B 55",
+    "price": "$2,562"
+  },
+  "1340": {
+    "name": "BURLETE B 56",
+    "price": "$2,107",
+    "category_name": "LiNEA CONSTRUCCION",
+    "category_code": "D"
+  },
+  "1341": {
+    "name": "BURLETE B 57          B057",
+    "price": "$437",
+    "category_name": "LiNEA CONSTRUCCION",
+    "category_code": "D"
+  },
+  "1342": {
+    "name": "BURLETE B 58",
+    "price": "$1,934",
+    "category_name": "LiNEA CONSTRUCCION",
+    "category_code": "D"
+  },
+  "1344": {
+    "name": "BURLETE B 60",
+    "price": "$1,193",
+    "category_name": "LiNEA CONSTRUCCION",
+    "category_code": "D"
+  },
+  "1349": {
+    "name": "BURLETE B 66           AST 2534",
+    "price": "$1,249",
+    "category_name": "LiNEA CONSTRUCCION",
+    "category_code": "D"
+  },
+  "1350": {
+    "name": "BTE B-67 EPDM doble contacto vent de ab",
+    "price": "$589",
+    "category_name": "LiNEA CONSTRUCCION",
+    "category_code": "D"
+  },
+  "1351": {
+    "name": "BTE B-68 EPDM AG062E-8913",
+    "price": "$837",
+    "category_name": "LiNEA CONSTRUCCION",
+    "category_code": "D"
+  },
+  "1351S": {
+    "name": "Bte hermeticidad Silicona AG062E",
+    "price": "$5,658"
+  },
+  "1352": {
+    "name": "BURLETE B 69",
+    "price": "$428",
+    "category_name": "LiNEA CONSTRUCCION",
+    "category_code": "D"
+  },
+  "1353": {
+    "name": "BTE B-71 EPDM 50 MTS",
+    "price": "$1,550",
+    "category_name": "LiNEA CONSTRUCCION",
+    "category_code": "D"
+  },
+  "1354": {
+    "name": "BURLETE B 76",
+    "price": "$636",
+    "category_name": "LiNEA CONSTRUCCION",
+    "category_code": "D"
+  },
+  "1355": {
+    "name": "BURLETE B 74",
+    "price": "$1,497",
+    "category_name": "LiNEA CONSTRUCCION",
+    "category_code": "D"
+  },
+  "1356": {
+    "name": "BTE B-77 EPDM  50 MTS",
+    "price": "$1,671",
+    "category_name": "LiNEA CONSTRUCCION",
+    "category_code": "D"
+  },
+  "1357": {
+    "name": "Burlete piel de vidrio B 78",
+    "price": "$741",
+    "category_name": "LiNEA CONSTRUCCION",
+    "category_code": "D"
+  },
+  "1358": {
+    "name": "BURLETE B 73     200 MTS",
+    "price": "$306",
+    "category_name": "LiNEA CONSTRUCCION",
+    "category_code": "D"
+  },
+  "1359": {
+    "name": "BURLETE B 79      AG061E",
+    "price": "$449",
+    "category_name": "LiNEA CONSTRUCCION",
+    "category_code": "D"
+  },
+  "1360": {
+    "name": "BURLETE B 80",
+    "price": "$537",
+    "category_name": "LiNEA CONSTRUCCION",
+    "category_code": "D"
+  },
+  "1361": {
+    "name": "BURLETE B 81",
+    "price": "$3,000",
+    "category_name": "LiNEA CONSTRUCCION",
+    "category_code": "D"
+  },
+  "1362": {
+    "name": "BURLETE B 72",
+    "price": "$1,435",
+    "category_name": "LiNEA CONSTRUCCION",
+    "category_code": "D"
+  },
+  "1363": {
+    "name": "CANAL DE AGUA FRAME ALUAR",
+    "price": "$6,186",
+    "category_name": "LiNEA CONSTRUCCION",
+    "category_code": "D"
+  },
+  "1363D": {
+    "name": "DESAGOTE CANAL DE AGUA COD. 1363",
+    "price": "$14,551"
+  },
+  "1365": {
+    "name": "BURLETE B 84",
+    "price": "$687",
+    "category_name": "LiNEA CONSTRUCCION",
+    "category_code": "D"
+  },
+  "1366": {
+    "name": "BURLETE B 82",
+    "price": "$1,200"
+  },
+  "1367": {
+    "name": "BURLETE B 83",
+    "price": "$1,278"
+  },
+  "1368": {
+    "name": "Bte hermet int. batientes B 85  A40RPT",
+    "price": "$629",
+    "category_name": "LiNEA CONSTRUCCION",
+    "category_code": "D"
+  },
+  "1369": {
+    "name": "BTE.EXT B-86 BARANDA",
+    "price": "$1,939",
+    "category_name": "LiNEA CONSTRUCCION",
+    "category_code": "D"
+  },
+  "1370": {
+    "name": "BTE INT P/VIDRIO B-87",
+    "price": "$1,508",
+    "category_name": "LiNEA CONSTRUCCION",
+    "category_code": "D"
+  },
+  "1371": {
+    "name": "BTE INT/VIDRIO B-88 8+8",
+    "price": "$2,800",
+    "category_name": "LiNEA CONSTRUCCION",
+    "category_code": "D"
+  },
+  "1372": {
+    "name": "Bte. interior p/vidrio 8+8 opcional B-8",
+    "price": "$1,939",
+    "category_name": "LiNEA CONSTRUCCION",
+    "category_code": "D"
+  },
+  "1373": {
+    "name": "BTE B-68 C/BULBO EPDM",
+    "price": "$837",
+    "category_name": "LiNEA CONSTRUCCION",
+    "category_code": "D"
+  },
+  "1374": {
+    "name": "BTE B-67 CON BULBO",
+    "price": "$639",
+    "category_name": "LiNEA CONSTRUCCION",
+    "category_code": "D"
+  },
+  "1375": {
+    "name": "BTE B-67 ROA/PATA LARGA",
+    "price": "$639",
+    "category_name": "LiNEA CONSTRUCCION",
+    "category_code": "D"
+  },
+  "1376": {
+    "name": "BTE B -89 EPDM",
+    "price": "$1,259",
+    "category_name": "LiNEA CONSTRUCCION",
+    "category_code": "D"
+  },
+  "1500": {
+    "name": "BURLETE JM 171 C",
+    "price": "$20,210"
+  },
+  "1601": {
+    "name": "Bte.VERTICAL VIDRIO 50 MTS B45",
+    "price": "$1,649",
+    "category_name": "LiNEA FLAMIA",
+    "category_code": "G"
+  },
+  "1602": {
+    "name": "BURLETE VIDRIO HORIZONTAL B48",
+    "price": "$1,049",
+    "category_name": "LiNEA FLAMIA",
+    "category_code": "G"
+  },
+  "1603": {
+    "name": "BURLETE PLACA COLUMNA CU､A HUECA",
+    "price": "$685",
+    "category_name": "LiNEA FLAMIA",
+    "category_code": "G"
+  },
+  "1604": {
+    "name": "BTE HORIZONTAL VIDRIO (U) B46 50 MTS",
+    "price": "$2,132"
+  },
+  "1605": {
+    "name": "BURLETE OJO DE BUEY",
+    "price": "$10,383",
+    "category_name": "LiNEA FLAMIA",
+    "category_code": "G"
+  },
+  "1606": {
+    "name": "BURLETE TAPA COLUMNA B47",
+    "price": "$2,901",
+    "category_name": "LiNEA FLAMIA",
+    "category_code": "G"
+  },
+  "1607": {
+    "name": "BTE. VIDRIO HORIZONTAL TRAVESANO B48",
+    "price": "$901",
+    "category_name": "LiNEA FLAMIA",
+    "category_code": "G"
+  },
+  "1608": {
+    "name": "BTE P/ACRILICO MAMPARA 84559-7 BU019",
+    "price": "$708",
+    "category_name": "LiNEA FLAMIA",
+    "category_code": "G"
+  },
+  "1609": {
+    "name": "BURLETE TOPE MAMPARA BANO",
+    "price": "$893",
+    "category_name": "LiNEA FLAMIA",
+    "category_code": "G"
+  },
+  "1610": {
+    "name": "CORDON MOSQUITERO EPDM D. 5.5",
+    "price": "$399",
+    "category_name": "LiNEA FLAMIA",
+    "category_code": "G"
+  },
+  "1610/4.5": {
+    "name": "CORDON MOSQUITERO EPDM D. 4.5",
+    "price": "$317"
+  },
+  "1610/5": {
+    "name": "CORDON MOSQUITERO EPDM D.5  B9",
+    "price": "$336"
+  },
+  "1610/6": {
+    "name": "CORDON MOSQUITERO EPDM D.6",
+    "price": "$584"
+  },
+  "1611": {
+    "name": "BURLETE GUILLOTINA     BU020",
+    "price": "$769",
+    "category_name": "LiNEA FLAMIA",
+    "category_code": "G"
+  },
+  "1612": {
+    "name": "BURLETE MOSQUITERO     BU003",
+    "price": "$946",
+    "category_name": "LiNEA FLAMIA",
+    "category_code": "G"
+  },
+  "1613": {
+    "name": "BURLETE TAPA CANTO       P12204",
+    "price": "$948",
+    "category_name": "LiNEA FLAMIA",
+    "category_code": "G"
+  },
+  "1614": {
+    "name": "BURL.VIDRIO REPARTIDO 3 MM.",
+    "price": "$588",
+    "category_name": "LiNEA FLAMIA",
+    "category_code": "G"
+  },
+  "1615": {
+    "name": "BTE. VIDRIO REPARTIDO 4 MM.",
+    "price": "$513",
+    "category_name": "LiNEA FLAMIA",
+    "category_code": "G"
+  },
+  "1616": {
+    "name": "TACO DE GOMA DE 20 MM.  TA049",
+    "price": "$723",
+    "category_name": "LiNEA FLAMIA",
+    "category_code": "G"
+  },
+  "1617": {
+    "name": "BURLETE TIPO PARTE T",
+    "price": "$519",
+    "category_name": "LiNEA FLAMIA",
+    "category_code": "G"
+  },
+  "1618": {
+    "name": "BURLETE VIDRIO REPARTIDO BU056",
+    "price": "$538",
+    "category_name": "LiNEA FLAMIA",
+    "category_code": "G"
+  },
+  "1619": {
+    "name": "BTE ALTO PARA LARGUERO B1619",
+    "price": "$2,280"
+  },
+  "1620": {
+    "name": "BTE TOPE U SUPERIOR TA 051",
+    "price": "$1,365",
+    "category_name": "LiNEA FLAMIA",
+    "category_code": "G"
+  },
+  "1621": {
+    "name": "BTE TOPE SOBRE CIERRE TA051",
+    "price": "$1,683",
+    "category_name": "LiNEA FLAMIA",
+    "category_code": "G"
+  },
+  "1622": {
+    "name": "BTE EXTERIOR VIDRIO    BM068",
+    "price": "$1,170",
+    "category_name": "LiNEA FLAMIA",
+    "category_code": "G"
+  },
+  "1623": {
+    "name": "BTE CAMARA COMPENSADORA BM074",
+    "price": "$1,740",
+    "category_name": "LiNEA FLAMIA",
+    "category_code": "G"
+  },
+  "1624": {
+    "name": "BTE CAMARA COMP EXTERIOR BM084",
+    "price": "$468",
+    "category_name": "LiNEA FLAMIA",
+    "category_code": "G"
+  },
+  "1625": {
+    "name": "BTE BAJO P/TRAVESAÑO TECHO B1625",
+    "price": "$1,687",
+    "category_name": "LiNEA FLAMIA",
+    "category_code": "G"
+  },
+  "1626": {
+    "name": "BTE TAPA LARGUERO TECHO B1626",
+    "price": "$2,180",
+    "category_name": "LiNEA FLAMIA",
+    "category_code": "G"
+  },
+  "1627": {
+    "name": "BTE TAPA CIERRE POSTIGON BU040",
+    "price": "$1,605",
+    "category_name": "LiNEA FLAMIA",
+    "category_code": "G"
+  },
+  "1628": {
+    "name": "BURLETE",
+    "price": "$966",
+    "category_name": "LiNEA FLAMIA",
+    "category_code": "G"
+  },
+  "1629": {
+    "name": "BURLETE BM079",
+    "price": "$541",
+    "category_name": "LiNEA FLAMIA",
+    "category_code": "G"
+  },
+  "1629C": {
+    "name": "BURLETE BM079",
+    "price": "$541"
+  },
+  "1630": {
+    "name": "BURLETE TAPA",
+    "price": "$2,526"
+  },
+  "1634": {
+    "name": "Bte junta central RPT   EPDM       3051",
+    "price": "$4,781"
+  },
+  "1701": {
+    "name": "BURLETE GUA 007 B12 AG 047E",
+    "price": "$1,049",
+    "category_name": "CONSTRUCCION (GUA)",
+    "category_code": "H"
+  },
+  "1702": {
+    "name": "BURLETE GUA 160 (9505) AG160E",
+    "price": "$1,402",
+    "category_name": "CONSTRUCCION (GUA)",
+    "category_code": "H"
+  },
+  "1703": {
+    "name": "BURLETE GUA 161 (9506-0)AG161E",
+    "price": "$739",
+    "category_name": "CONSTRUCCION (GUA)",
+    "category_code": "H"
+  },
+  "1704": {
+    "name": "BURLETE GUA 162 (9507) AG162E",
+    "price": "$600",
+    "category_name": "CONSTRUCCION (GUA)",
+    "category_code": "H"
+  },
+  "1705": {
+    "name": "BURLETE GUA 189        R 50 MTS.",
+    "price": "$2,114",
+    "category_name": "CONSTRUCCION (GUA)",
+    "category_code": "H"
+  },
+  "1706": {
+    "name": "BURLETE GUA 033          50 MTS.",
+    "price": "$2,284",
+    "category_name": "CONSTRUCCION (GUA)",
+    "category_code": "H"
+  },
+  "1707": {
+    "name": "BURLETE GUA 173",
+    "price": "$1,571"
+  },
+  "1708": {
+    "name": "BURLETE GUA 034  AG034E  50 MTS.",
+    "price": "$2,514",
+    "category_name": "CONSTRUCCION (GUA)",
+    "category_code": "H"
+  },
+  "1709": {
+    "name": "BURLETE GUA 169",
+    "price": "$1,790",
+    "category_name": "CONSTRUCCION (GUA)",
+    "category_code": "H"
+  },
+  "1710": {
+    "name": "BURLETE GUA 168",
+    "price": "$944",
+    "category_name": "CONSTRUCCION (GUA)",
+    "category_code": "H"
+  },
+  "1711": {
+    "name": "BURLETE GUA 205",
+    "price": "$1,038",
+    "category_name": "CONSTRUCCION (GUA)",
+    "category_code": "H"
+  },
+  "1712": {
+    "name": "BURLETE GUA 201",
+    "price": "$1,208",
+    "category_name": "CONSTRUCCION (GUA)",
+    "category_code": "H"
+  },
+  "1713": {
+    "name": "BURLETE GUA 196        AGT2744",
+    "price": "$834",
+    "category_name": "CONSTRUCCION (GUA)",
+    "category_code": "H"
+  },
+  "1714": {
+    "name": "BURLETE GUA 197    AGT2734",
+    "price": "$747",
+    "category_name": "CONSTRUCCION (GUA)",
+    "category_code": "H"
+  },
+  "1715": {
+    "name": "BURLETE GUA 285",
+    "price": "$1,217"
+  },
+  "1716": {
+    "name": "BURLETE GUA 286",
+    "price": "$1,161",
+    "category_name": "CONSTRUCCION (GUA)",
+    "category_code": "H"
+  },
+  "1720": {
+    "name": "BURLETE CUÑA",
+    "price": "$1,016",
+    "category_name": "CONSTRUCCION (GUA)",
+    "category_code": "H"
+  },
+  "1901": {
+    "name": "BURLETE ZOCALO",
+    "price": "$1,100",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1902": {
+    "name": "BURLETE CU､A FINA     R. 100",
+    "price": "$415",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1902-C": {
+    "name": "BURLETE CU､A FINA     R. 100",
+    "price": "$415"
+  },
+  "1903": {
+    "name": "BTE. UNIVERSAL LIVIANO AG003E",
+    "price": "$934",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1904": {
+    "name": "BURLETE UNIVERSAL PESADO 8216-0",
+    "price": "$1,160",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1905": {
+    "name": "BURLETE CUNA MEDIANA",
+    "price": "$605",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1906": {
+    "name": "BTE UNIVERSAL CHICO AG002E",
+    "price": "$761",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1907": {
+    "name": "BURLETE ZOCALO FIJO PUERTA",
+    "price": "$1,258",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1908": {
+    "name": "ZOCALO SANITARIO 60 MM",
+    "price": "$4,179",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1909": {
+    "name": "ZOCALO AUTOMATICO",
+    "price": "$1,035",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1910": {
+    "name": "MEDIA CANA",
+    "price": "$962",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1911": {
+    "name": "BURLETE MAMPARA BANERA",
+    "price": "$6,177",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1912": {
+    "name": "BURLETE",
+    "price": "$2,946",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1913": {
+    "name": "BURLETE",
+    "price": "$1,410",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1914": {
+    "name": "BURLETE",
+    "price": "$1,369",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1915": {
+    "name": "BURLETE VENTANA VASCULANTE",
+    "price": "$1,981",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1916": {
+    "name": "BURLETE MR 06",
+    "price": "$1,353",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1917": {
+    "name": "BURLETE MR 03",
+    "price": "$1,173",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1918": {
+    "name": "BURLETE MR 01",
+    "price": "$1,263",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1919": {
+    "name": "BURLETE MR 07",
+    "price": "$3,489",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1920": {
+    "name": "BURLETE MR 05",
+    "price": "$1,291",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1921": {
+    "name": "BURLETE 1048",
+    "price": "$1,238",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1922": {
+    "name": "BURLETE TAB 01",
+    "price": "$706",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1922C": {
+    "name": "BTE P/PERSIANA REGULACION",
+    "price": "$1,859"
+  },
+  "1923": {
+    "name": "BURLETE",
+    "price": "$818",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1924": {
+    "name": "BURLETE MR 08",
+    "price": "$4,542",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1925": {
+    "name": "BURLETE MR 09",
+    "price": "$2,246",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1926": {
+    "name": "BURLETE P/POLICARBONATO",
+    "price": "$2,741",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1927": {
+    "name": "BURLETE TAPA",
+    "price": "$2,291",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1928": {
+    "name": "BURLETE ZOCALO",
+    "price": "$2,642",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1929": {
+    "name": "BURLETE",
+    "price": "$1,363",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1930": {
+    "name": "BURLETE CU､A PARAGUAYA CHICA",
+    "price": "$375",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1931": {
+    "name": "BURLETE VIDRIO REPARTIDO",
+    "price": "$585",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1933": {
+    "name": "BURLETE ZOCALO",
+    "price": "$1,393",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1934": {
+    "name": "BURLETE",
+    "price": "$1,020",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1935": {
+    "name": "BURLETE",
+    "price": "$5,995",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1936": {
+    "name": "BTE CUNA PARAGUAYA GRANDE MULTI 8926-0",
+    "price": "$853",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1937": {
+    "name": "BURLETE",
+    "price": "$1,731",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1938": {
+    "name": "BURLETE",
+    "price": "$794",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1939": {
+    "name": "BURLETE",
+    "price": "$1,293",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1940": {
+    "name": "BURLETE",
+    "price": "$1,092",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1941": {
+    "name": "BURLETE",
+    "price": "$1,252",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1942": {
+    "name": "BURLETE",
+    "price": "$1,140",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1943": {
+    "name": "BURLETE",
+    "price": "$956",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1944": {
+    "name": "BURLETE",
+    "price": "$8,082",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1945": {
+    "name": "BURLETE B 58/L",
+    "price": "$5,321",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1946": {
+    "name": "BURLETE",
+    "price": "$1,740"
+  },
+  "1948": {
+    "name": "BURLETE ZOCALO PUERTA",
+    "price": "$708",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1949": {
+    "name": "BURLETE ZOCALO",
+    "price": "$1,645",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1950": {
+    "name": "BURLETE",
+    "price": "$7,229",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1951": {
+    "name": "BURLETE",
+    "price": "$1,024",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1952": {
+    "name": "BURLETE",
+    "price": "$10,530",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1953": {
+    "name": "BURLETE TUBULAR",
+    "price": "$2,289",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1954": {
+    "name": "BURLETE",
+    "price": "$576",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1955": {
+    "name": "BURLETE CUNA GRANDE",
+    "price": "$1,026",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1956": {
+    "name": "BURLETE VIDRIO 6 MM",
+    "price": "$1,556",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1956G": {
+    "name": "BURLETE VIDRIO 6 MM",
+    "price": "$1,708"
+  },
+  "1957": {
+    "name": "BURLETE ZOCALO",
+    "price": "$1,450",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1958": {
+    "name": "BURLETE CUNA U MAXI 8820  AGT 2554",
+    "price": "$1,013",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1959": {
+    "name": "burlete",
+    "price": "$485",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1960": {
+    "name": "BURLETE",
+    "price": "$1,367",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1961": {
+    "name": "BURLETE TECHO",
+    "price": "$934",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1962": {
+    "name": "BURLETE    50 MTS",
+    "price": "$1,788",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1962T2545": {
+    "name": "BTE TIRA DE 2545 MM",
+    "price": "$4,757"
+  },
+  "1963": {
+    "name": "BURLETE",
+    "price": "$3,417",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1964": {
+    "name": "BURLETE (TRABIN)",
+    "price": "$1,593",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1966": {
+    "name": "BURLETE",
+    "price": "$538",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1967": {
+    "name": "BTE. RESPALDO INT. DVH AG175E",
+    "price": "$874",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1968": {
+    "name": "BURLETE REFORMA GUA 189",
+    "price": "$3,385"
+  },
+  "1969": {
+    "name": "BURLETE SB 2003",
+    "price": "$2,762",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1970": {
+    "name": "BURLETE SA  2200",
+    "price": "$822",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1971": {
+    "name": "BURLETE SB 2001",
+    "price": "$414",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1972": {
+    "name": "BURLETE SB 2002",
+    "price": "$600",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1973": {
+    "name": "BURLETE SB  542",
+    "price": "$2,708",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1974": {
+    "name": "BURLETE",
+    "price": "$2,842",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1976": {
+    "name": "BURLETE",
+    "price": "$2,538",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1977": {
+    "name": "BURLETE",
+    "price": "$1,221",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1978": {
+    "name": "BURLETE TECHO",
+    "price": "$910",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1979": {
+    "name": "BURLETE",
+    "price": "$1,973",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1980": {
+    "name": "BURLETE TAB 03 EPDM",
+    "price": "$880",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1983": {
+    "name": "BURLETE",
+    "price": "$5,209"
+  },
+  "1984": {
+    "name": "BURLETE",
+    "price": "$682",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1985": {
+    "name": "BTE P/VIDRIO F. INTEGRAL  8215",
+    "price": "$1,092",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1986": {
+    "name": "BTE CB502 TAB01 AGO46E EPDM",
+    "price": "$713"
+  },
+  "1987": {
+    "name": "BURLETE CB 504",
+    "price": "$888",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1988": {
+    "name": "BURLETE CB 505",
+    "price": "$741",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1989": {
+    "name": "BURLETE CB 506",
+    "price": "$3,986"
+  },
+  "1990": {
+    "name": "BURLETE CB 507",
+    "price": "$2,120",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1991": {
+    "name": "BURLETE JUNTA PISO COLOR NEGRO",
+    "price": "$4,512",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1992": {
+    "name": "BURLETE CB 501 ESPONJA DE EPDM",
+    "price": "$3,033",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1993": {
+    "name": "BURLETE",
+    "price": "$2,278",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1994": {
+    "name": "BURLETE",
+    "price": "$10,674",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1996": {
+    "name": "BURLETE  GUA 343  AG 180E",
+    "price": "$2,408",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1997": {
+    "name": "BURLETE TECHO",
+    "price": "$1,203",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1998": {
+    "name": "BURLETE TAB 02 REFORMA",
+    "price": "$1,613",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  },
+  "1999": {
+    "name": "BURLETE",
+    "price": "$1,049",
+    "category_name": "LiNEA CONSTRUCCION (VARIOS)",
+    "category_code": null
+  }
+}
